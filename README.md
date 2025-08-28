@@ -1,8 +1,9 @@
-# Clasificador-de-moda
+# Clasificación de tierras agrícolas
 
 Este proyecto forma parte del certificado de IBM "AI Engineering".
 
-Se construye un módulo basado en la arquitectura Cnn para la clasificación de imagenes de moda.
+El objetivo de este proyecto es el de clasificar con precisión los tipos de tierras agrícolas en una región.
+
 ### Flujo de trabajo:
 
 1.- Gestion y procesado del dataset. Creacion de pipelines y carga de lotes.
